@@ -9,22 +9,22 @@ create your own!
 
 > these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a traveler I want to drr the the Company name  with official logo so
+that give me clear information.
+  - _There is a logo with Company name that can link to home Page_
 
 ## Should-Haves
 
 > these will complete the user experience, but are not necessary
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a traveler I want to use search bar so that easily can find time,
+flight info.
+  - _There is search bar and register bar for new users_
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+> would be really cool if there's time
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a traveler I want to have a map and destination info
+  - _If we have time we can add some map, destination places information, events,
+news, weather information and some useful links to visit new places_
