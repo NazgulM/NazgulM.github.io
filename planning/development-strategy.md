@@ -24,3 +24,5 @@ This is application for business and holiday travelers, actually for every perso
 - This branch is merged to `master` branch after completion.
 
 - For design used Figma plugins
+  
+- For plain text with containers used HTML, and decorate with CSS.
