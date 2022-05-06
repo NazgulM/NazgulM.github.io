@@ -1,40 +1,44 @@
-# Name of project
+# Creating App for Euro Airlines (Swapna Chemboth)
 
-> A longer description
+> Task for this week to interview with my classmate Swapna, and try to help
+> creating design for her project, according with her needs
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
-  - [Table of contents](#table-of-contents)
-  - [General info](#general-info)
-  - [Screenshots](#screenshots)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Features](#features)
-  - [Status](#status)
-  - [Inspiration](#inspiration)
-  - [Contact](#contact)
-  - [Instructions for use](#instructions-for-use)
-  - [Code Quality Checks](#code-quality-checks)
-  - [Continuous Integration (CI)](#continuous-integration-ci)
-  - [Repo Setup](#repo-setup)
+- [Creating App for Euro Airlines (Swapna Chemboth)](/NazgulM.github.io/planning/design.md)
+- [Table of contents](#table-of-contents)
+- [General info](#general-info)
+- [Screenshots](#screenshots)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Code Examples](#code-examples)
+- [Features](#features)
+- [Status](#status)
+- [Inspiration](#inspiration)
+- [Contact](#contact)
+- [Instructions for use](#instructions-for-use)
+- [Code Quality Checks](#code-quality-checks)
+- [Continuous Integration (CI)](#continuous-integration-ci)
+- [Repo Setup](#repo-setup)
 
 ## General info
 
-> A short description
+> Design with Double Diamond system application for my classmate [Swapna Chemboth](https://github.com/SWAPNACHEMBOTH)
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+<https://www.figma.com/file/IB2Ik75oHFCjXPF5TO1j7i/Login-UI-Design?node-id=0%3A1>
+
+![Screenshot of design](./planning/assets/design.png)
+
+![Screenshot of interview](./planning/assets/interview.png)
 
 ## Technologies
 
 - Node 14.16.0
 - VSC code
 - JavaScript
-- ...
-- ...
+- Figma
 
 ## Setup
 
@@ -49,16 +53,13 @@ console.log("Hello World");
 
 ## Features
 
-List of features ready and Todos for future development
+List of features ready and Todo's for future development
 
--
--
--
+- Meet online with founder
+- Interview and detailed searching about air ticket company
 
-To-do list:
-
--
--
+- Checking with founder all steps of project
+- Providing to founder prepared job
 
 ## Status
 
@@ -66,11 +67,11 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by [Hack Your Future](https://github.com/HackYourFutureBelgium/ux-ui-design/tree/master/deliverables/co-design-your-home-page)
 
 ## Contact
 
-By [Name]
+By [Maniiasova Nazgul](https://github.com/NazgulM)
 
 ## Instructions for use
 
