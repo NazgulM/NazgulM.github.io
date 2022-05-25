@@ -5,7 +5,7 @@
 
 ## Table of contents
 
-- [Creating App for Euro Airlines (Swapna Chemboth)]([/NazgulM.github.io/planning/design.md](https://github.com/NazgulM/NazgulM.github.io/tree/master/planning))
+- [Creating App for Euro Airlines (Swapna Chemboth)](https://github.com/NazgulM/NazgulM.github.io/tree/master/planning)
 - [Table of contents](#table-of-contents)
 - [General info](#general-info)
 - [Screenshots](#screenshots)
