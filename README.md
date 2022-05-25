@@ -27,7 +27,7 @@
 
 ## Screenshots
 
-<https://www.figma.com/file/IB2Ik75oHFCjXPF5TO1j7i/Login-UI-Design?node-id=0%3A1>
+
 
 ![Screenshot of design](./planning/assets/design.png)
 
@@ -63,7 +63,7 @@ List of features ready and Todo's for future development
 
 ## Status
 
-Project is: _in progress_
+[Design](<https://www.figma.com/file/IB2Ik75oHFCjXPF5TO1j7i/Login-UI-Design?node-id=0%3A1>)
 
 ## Inspiration
 
@@ -126,4 +126,5 @@ locally.
   - The `master`/`main` branch must "_Require require branches to be up to date
     before merging_"
 
+  
 </details>
